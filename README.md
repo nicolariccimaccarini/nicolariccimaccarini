@@ -1,16 +1,14 @@
-### Hi there 👋
+# Nicola Ricci Maccarini
+** Italian 20 y/o developer **
 
-<!--
-**nicolariccimaccarini/nicolariccimaccarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+- 🧠 **Major knowledge** of
+  - 💻 **Programming related**: Algorithms, Data Structures, Object Oriented Programming, Functional Programming and Management Programming.
+- 👨🏻‍💻 **Work Experience**:
+  - 🏢 **Gescad S.p.A** (6 months), managment programming for third-party companies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects 
+
+- **Small Projects**
+  - 📈 [**M/M/C queue system](https://github.com/nicolariccimaccarini/Simulation-of-an-MMC-queue-system): Simply simulation of a M/M/C queue systgem in python 
