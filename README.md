@@ -1,5 +1,5 @@
 # Nicola Ricci Maccarini
-** Italian 20 y/o developer **
+**Italian 20 y/o developer**
 
 ## Skills
 
