@@ -7,8 +7,11 @@
   - 💻 **Programming related**: Algorithms, Data Structures, Object Oriented Programming, Functional Programming and Management Programming.
 - 👨🏻‍💻 **Work Experience**:
   - 🏢 **Gescad S.p.A** (6 months), managment programming for third-party companies
+- 🔤 **Lenguages**:
+  - C, HTML, CSS, PHP, Shell, Assembly
+  - **OOP**: Java, Python, C#, Fortran (for code parallelization with OpenMP and IntelMPI), Matlab
 
 ## Projects 
 
 - **Small Projects**
-  - 📈 [**M/M/C queue system**](https://github.com/nicolariccimaccarini/Simulation-of-an-MMC-queue-system): Simply simulation of a M/M/C queue systgem in Python 
+  - 📈 [**M/M/C queue system**](https://github.com/nicolariccimaccarini/Simulation-of-an-MMC-queue-system): Simply simulation of a M/M/C queue systgem in Python
