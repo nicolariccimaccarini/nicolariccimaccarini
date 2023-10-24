@@ -11,4 +11,4 @@
 ## Projects 
 
 - **Small Projects**
-  - 📈 [**M/M/C queue system**](https://github.com/nicolariccimaccarini/Simulation-of-an-MMC-queue-system): Simply simulation of a M/M/C queue systgem in python 
+  - 📈 [**M/M/C queue system**](https://github.com/nicolariccimaccarini/Simulation-of-an-MMC-queue-system): Simply simulation of a M/M/C queue systgem in Python 
