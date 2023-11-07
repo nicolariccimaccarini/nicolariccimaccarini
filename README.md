@@ -12,17 +12,17 @@
     - **OOP**: Java, Python, C#, Fortran (for code parallelization with OpenMP and IntelMPI), Matlab
     - **Database**: MySQL
      <div>
-     <img src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg>
-     <img src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg>
-     <img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg>
-     <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg>
-     <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg>
-     <img src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg>
-     <img src=https://ia.wikipedia.org/wiki/FORTRAN#/media/File:Fortran_logo.svg>
-     <img src=https://en.wikipedia.org/wiki/OpenMP#/media/File:OpenMP_logo.png>
-     <img src=https://insidehpc.com/wp-content/uploads/2017/08/MPI.jpg>
-     <img src=https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg>
-     <img src=https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>&nbsp;
+     <img src="https://ia.wikipedia.org/wiki/FORTRAN#/media/File:Fortran_logo.svg" alt="Fortran" width="40" height="40"/>&nbsp;
+     <img src="https://en.wikipedia.org/wiki/OpenMP#/media/File:OpenMP_logo.png" alt="OpenMP" width="40" height="40"/>&nbsp;
+     <img src="https://insidehpc.com/wp-content/uploads/2017/08/MPI.jpg" alt="Intel MPI" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
      </div>
 - 📝 **IDE and Code Editors**:
   - 
