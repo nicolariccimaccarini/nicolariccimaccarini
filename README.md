@@ -33,7 +33,7 @@
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="[https://it.wikipedia.org/wiki/Eclipse_(informatica)#/media/File:Eclipse-Luna-Logo.svg](https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png)" alt="Eclipse" width="40" height="40"/>&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:540/1*nNTk-j2uaKhxyj3GXsYNdg.png" alt="Eclipse" width="40" height="40"/>&nbsp;
   <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1200px-Clion.svg.png alt="CLion" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="PyCharm" width="40" height="40"/>&nbsp;
   </div>
