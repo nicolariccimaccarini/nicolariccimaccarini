@@ -15,4 +15,4 @@
 ## Projects 
 
 - **Small Projects**
-  - 📈 [**M/M/C queue system**](https://github.com/nicolariccimaccarini/Simulation-of-an-MMC-queue-system): Simply simulation of a M/M/C queue systgem in Python using Plotly      for the graph and Tkinter for the GUI
+  - 📈 [**M/M/C queue system**](https://github.com/Network-Project-Unife/Simulation-of-an-MMC-queue-system): Simply simulation of a M/M/C queue systgem in Python using Plotly      for the graph and Tkinter for the GUI
