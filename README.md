@@ -45,4 +45,4 @@
 
 ## Stats
 
-![Nicola's Github Stats](https://github-readme-stats.vercel.app/api?username=nicolariccimaccarini&theme=radical)]
+![Nicola's Github Stats](https://github-readme-stats.vercel.app/api?username=nicolariccimaccarini&theme=radical)
