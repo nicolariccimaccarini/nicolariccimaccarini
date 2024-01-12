@@ -8,8 +8,8 @@
 - 👨🏻‍💻 **Work Experience**:
   - 🏢 **Gescad S.p.A** (6 months), managment programming for third-party companies
 - 🔤 **Lenguages and Tools**:
-    - C, HTML, CSS, PHP, Shell, Assembly MIPS
-    - **OOP**: Java, Python, C#, Fortran (for code parallelization with OpenMP and IntelMPI), Matlab
+    - C, HTML, CSS
+    - **OOP**: Java, Python, C#, PHP, Fortran (for code parallelization with OpenMP and IntelMPI), Matlab
     - **Database**: MySQL
      <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
