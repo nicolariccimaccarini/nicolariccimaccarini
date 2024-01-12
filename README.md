@@ -18,6 +18,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1200px-Fortran_logo.svg.png" alt="Fortran" width="40" height="40"/>&nbsp;
      <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2021/04/OpenMP.png?itok=CGoaYDX-" alt="OpenMP" width="40" height="40"/>&nbsp;
      <img src="https://insidehpc.com/wp-content/uploads/2017/08/MPI.jpg" alt="Intel MPI" width="40" height="40"/>&nbsp;
