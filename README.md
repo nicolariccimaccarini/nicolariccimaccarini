@@ -25,19 +25,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
      </div>
-- 📝 **IDE and Code Editors**:
-  - Visual Studio Code
-  - Visual Studio
-  - Eclipse
-  - CLion
-  - PyCharm
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://miro.medium.com/v2/resize:fit:540/1*nNTk-j2uaKhxyj3GXsYNdg.png" alt="Eclipse" width="40" height="40"/>&nbsp;
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1200px-Clion.svg.png alt="CLion" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="PyCharm" width="40" height="40"/>&nbsp;
-  </div>
+
 
 ## Projects 
 
