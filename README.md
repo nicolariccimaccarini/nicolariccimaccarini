@@ -8,10 +8,10 @@
 - 👨🏻‍💻 **Work Experience**:
   - 🏢 **Gescad S.p.A** (6 months), managment programming for third-party companies
 - 🔤 **Lenguages and Tools**:
-    - C, HTML, CSS
-    - **OOP**: Java, Python, C#, PHP, Fortran (for code parallelization with OpenMP and IntelMPI), Matlab
+    - C, Java, Python, C#, PHP, Fortran (for code parallelization with OpenMP and IntelMPI), Matlab, HTML, CSS
     - **Database**: MySQL
-     <div>
+
+  <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>&nbsp;
@@ -24,7 +24,7 @@
      <img src="https://insidehpc.com/wp-content/uploads/2017/08/MPI.jpg" alt="Intel MPI" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
-     </div>
+    </div>
 
 
 ## Projects 
