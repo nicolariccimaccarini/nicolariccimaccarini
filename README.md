@@ -31,7 +31,7 @@
 
 - **Small Projects**
   - 📈 [**M/M/C queue system**](https://github.com/Network-Project-Unife/Simulation-of-an-MMC-queue-system): Simply simulation of a M/M/C queue systgem in Python using Plotly      for the graph and Tkinter for the GUI
-  - 📝 [**Update Index of a Markdown File**](https://github.com/nicolariccimaccarini/UpdateIndexMarkdown): A simply Python program that create the index of a markdown file (mainly meant for Obsidian, Joplin or any text editor that uses .mkd files) and if the index already exist updates it
+  - 📝 [**Update Index of a Markdown File**](https://github.com/nicolariccimaccarini/UpdateIndexMarkdown): A simple program in Python that creates the table of contents of a markdown file based on paragraphs and if the table of contents already exists, updates it (mainly designed for Obsidian, Joplin or any text editor that uses .mkd files)
 
 ## Stats
 
