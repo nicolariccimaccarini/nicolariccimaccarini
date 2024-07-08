@@ -39,3 +39,6 @@
 </br>
 </br>
 ![Nicola's Github Stats](https://github-readme-stats.vercel.app/api?username=nicolariccimaccarini&theme=tokyonight)
+</br>
+</br>
+![Nicola's Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=nicolariccimaccarini&theme=tokyonight)
