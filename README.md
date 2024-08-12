@@ -30,10 +30,10 @@
 ## Projects 
 
 - **Medium Projects**
-  - 📈 [**M/M/C queue system**](https://github.com/Network-Project-Unife/Simulation-of-an-MMC-queue-system): Simply simulation of a M/M/C queue systgem in Python using Plotly      for the graph and Tkinter for the GUI
+  - 📈 [**M/M/C queue system**](https://github.com/Network-Project-Unife/Simulation-of-an-MMC-queue-system): Simulation of a M/M/C queue systgem in Python using Plotly      for the graph and Tkinter for the GUI
   - 🗄️ [**Database Course Project**](https://github.com/Database-Course-Project-UNIFE/Database-Project): Project for "Basi di Dati" course of Università degli Studi di Ferrara. The goal is to develop a simple website wich interacts with a museum's database using HTML, CSS, PHP, MySQL and Python.
 - **Small Projects**
-  - 📝 [**Update Index of a Markdown File**](https://github.com/nicolariccimaccarini/UpdateIndexMarkdown): A simple program in Python that creates the table of contents of a markdown file based on paragraphs and if the table of contents already exists, updates it (mainly designed for Obsidian but it also works on Joplin or any text editor that uses .md files)
+  - 📝 [**Update Index of a Markdown File**](https://github.com/nicolariccimaccarini/UpdateIndexMarkdown): A simple program in Python that creates the table of contents of a markdown file based on paragraphs and if the table of contents already exists, updates it (mainly designed for Obsidian)
 
 ## Stats
 
