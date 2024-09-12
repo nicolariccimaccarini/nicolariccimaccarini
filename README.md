@@ -4,7 +4,7 @@
 ## Skills
 
 - 🧠 **Major knowledge** of
-  - 💻 **Programming related**: Algorithms, Data Structures, Object Oriented Programming, Functional Programming and Management Programming, Relational Database.
+  - 💻 **Programming related**: Algorithms, Data Structures, Object Oriented Programming, Functional Programming and Management Programming, Relational Databases.
 - 👨🏻‍💻 **Work Experience**:
   - 🏢 **Gescad S.p.A** (6 months), managment programming for third-party companies
 - 🔤 **Lenguages and Tools**:
