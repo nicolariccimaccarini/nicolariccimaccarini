@@ -6,7 +6,7 @@
 - 🧠 **Major knowledge** of
   - 💻 **Programming related**: Algorithms, Data Structures, Object Oriented Programming, Functional Programming and Management Programming, Relational Databases.
 - 👨🏻‍💻 **Work Experience**:
-  - 🏢 **Gescad S.p.A** (6 months), managment programming for third-party companies
+  - 🏢 **Gescad S.p.A** (6 months), management programming for third-party companies
 - 🔤 **Lenguages and Tools**:
     - C, Java, Python, C#, PHP, Fortran (for code parallelization with OpenMP and IntelMPI), Matlab, HTML, CSS
     - **Database**: MySQL
