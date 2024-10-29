@@ -2,7 +2,7 @@
 - **Italian 20 y/o developer**
 - BSc in Computer Science student @ [Universitá di Ferrara](https://corsi.unife.it/informatica)
 
-[![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=googledocs&logoColor=black)]()
+[![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=googledocs&logoColor=black)](Nicoa_Ricci_Maccarini_Software_Developer_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicola-ricci-maccarini-a8a979a7/)
 [![Gmail](https://img.shields.io/badge/Gmail-F51115?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolariccimaccarini2003@gmail.com)
 
