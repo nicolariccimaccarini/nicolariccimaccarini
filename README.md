@@ -1,5 +1,10 @@
 # Nicola Ricci Maccarini
-**Italian 20 y/o developer**
+- **Italian 20 y/o developer**
+- BSc in Computer Science student @ [Universitá di Ferrara](https://corsi.unife.it/informatica)
+
+[![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=googledocs&logoColor=black)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicola-ricci-maccarini-a8a979a7/)
+[![Gmail](https://img.shields.io/badge/Gmail-F51115?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolariccimaccarini2003@gmail.com)
 
 ## Skills
 
@@ -8,23 +13,12 @@
 - 👨🏻‍💻 **Work Experience**:
   - 🏢 **Gescad S.p.A** (6 months), management programming for third-party companies
 - 🔤 **Lenguages and Tools**:
-    - C, Java, Python, C#, PHP, Fortran (for code parallelization with OpenMP and IntelMPI), Matlab, HTML, CSS, Javascript & TypeScript
+    - C, Python, Java,  C#, PHP, Javascript & TypeScript
     - **Database**: MySQL
 
-  <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1200px-Fortran_logo.svg.png" alt="Fortran" width="40" height="40"/>&nbsp;
-     <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2021/04/OpenMP.png?itok=CGoaYDX-" alt="OpenMP" width="40" height="40"/>&nbsp;
-     <img src="https://insidehpc.com/wp-content/uploads/2017/08/MPI.jpg" alt="Intel MPI" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
-    </div>
+[![](https://skillicons.dev/icons?i=c,python,java,cs,javascript,typescript,bash)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=git,github,mysql,vscode,latex,regex)](https://skillicons.dev)
 
 
 ## Projects 
