@@ -12,9 +12,6 @@
   - 💻 **Programming related**: Algorithms, Data Structures, Object Oriented Programming, Functional Programming and Management Programming, Relational Databases.
 - 👨🏻‍💻 **Work Experience**:
   - 🏢 **Gescad S.p.A** (6 months), management programming for third-party companies
-- 🔤 **Lenguages and Tools**:
-    - C, Python, Java,  C#, PHP, Javascript & TypeScript
-    - **Database**: MySQL
 
 [![](https://skillicons.dev/icons?i=c,python,java,cs,javascript,typescript,bash)](https://skillicons.dev)
 
