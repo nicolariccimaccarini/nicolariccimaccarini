@@ -1,5 +1,5 @@
 # Nicola Ricci Maccarini
-- **Italian 20 y/o developer**
+- **Italian 21 y/o developer**
 - BSc in Computer Science student @ [Universitá di Ferrara](https://corsi.unife.it/informatica)
 
 [![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=googledocs&logoColor=black)](Nicola_Ricci_Maccarini_Resume.pdf)
