@@ -21,7 +21,8 @@
 ## Projects 
 
 - **Medium Projects**
-  - 📈 [**M/M/C queue system**](https://github.com/Network-Project-Unife/Simulation-of-an-MMC-queue-system): Simulation of a M/M/C queue system in Python using Plotly      for the graph and Tkinter for the GUI
+  - 👨🏻‍🍳 [**wAIsteless**](https://github.com/TechWeb-Project/wAIsteless): Developed an AI-driven web application that generates personalized recipes based on available refrigerator ingredients, reducing food waste and optimizing meal planning.
+  - 📈 [**M/M/C queue system**](https://github.com/Network-Project-Unife/Simulation-of-an-MMC-queue-system): Simulation of a M/M/C queue system in Python using Plotly for the graph and Tkinter for the GUI
   - 🗄️ [**Database Course Project**](https://github.com/Database-Course-Project-UNIFE/Database-Project): Project for "Basi di Dati" course of Università degli Studi di Ferrara. The goal is to develop a simple website wich interacts with a museum's database using HTML, CSS, PHP, MySQL and Python.
 - **Small Projects**
   - 📝 [**Update Index of a Markdown File**](https://github.com/nicolariccimaccarini/UpdateIndexMarkdown): A simple program in Python that creates the table of contents of a markdown file based on paragraphsin the .md text (mainly designed for Obsidian)
