@@ -1,6 +1,6 @@
 # Nicola Ricci Maccarini
 - **Italian 21 y/o developer**
-- BSc in Computer Science student @ [Universitá di Ferrara](https://corsi.unife.it/informatica)
+- BSc student in Computer Science @ [Universitá di Ferrara](https://corsi.unife.it/informatica)
 
 [![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=googledocs&logoColor=black)](Nicola_Ricci_Maccarini_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicola-ricci-maccarini-a8a979a7/)
@@ -9,7 +9,7 @@
 ## Skills
 
 - 🧠 **Major knowledge** of
-  - 💻 **Programming related**: Algorithms, Data Structures, Object Oriented Programming, Functional Programming and Management Programming, Relational Databases.
+  - 💻 **Programming related**: AI & Machine Learning, Algorithms, Data Structures, Object Oriented Programming, Functional Programming and Management Programming, Relational Databases.
 - 👨🏻‍💻 **Work Experience**:
   - 🏢 **Gescad S.p.A** (6 months), management programming for third-party companies
 
