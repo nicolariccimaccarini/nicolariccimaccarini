@@ -28,4 +28,4 @@
   - 📝 [**Update Index of a Markdown File**](https://github.com/nicolariccimaccarini/UpdateIndexMarkdown): A simple program in Python that creates the table of contents of a markdown file based on paragraphsin the .md text (mainly designed for Obsidian)
 
 ## Extracurricular Activities
-- **🥉 Third Place 9th Cassini Hackathon**
+- **🥉 Third Place 9th Cassini Hackathon** ([See the project](https://github.com/Cassini-Hackathon/AIRA))
